@@ -8,5 +8,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "tsc": "^2.0.4",
+    "tsx": "^4.19.0",
+    "typescript": "^5.5.4"
+  }
 }
